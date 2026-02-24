@@ -11,4 +11,4 @@
 
 Open-source infrastructure layer that handles agent routing, orchestration, and guardrails, decoupling delivery concerns from agent business logic.
 
-<img src="https://github.com/namanvirk18/plano/blob/main/assets/openclaw-plus-plano.gif?raw=true" alt="Plano Demo">
+<img src="https://github.com/namanvirk18/plano/blob/main/assets/openclaw-plus-plano.gif?raw=true" alt="Plano Demo" width="700">
