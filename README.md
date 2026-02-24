@@ -1,6 +1,5 @@
 <div align="center">
   <img src="docs/source/_static/img/PlanoTagline.svg" alt="Plano Logo" width="35%" height=auto>
-
 <h3 style="margin: 10px 0; border: none;">The AI-native proxy server and data plane for agentic apps</h3>
 
 [![CI](https://github.com/katanemo/plano/actions/workflows/ci.yml/badge.svg)](https://github.com/katanemo/plano/actions/workflows/ci.yml)
