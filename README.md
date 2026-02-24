@@ -1,8 +1,9 @@
 <div align="center">
   <img src="docs/source/_static/img/PlanoTagline.svg" alt="Plano Logo" width="40%" height=auto>
+
+### The AI-native proxy server and data plane for agentic apps.
+
 </div>
-<div align="center">
- ### The AI-native proxy server and data plane for agentic apps.
 
 [![CI](https://github.com/katanemo/plano/actions/workflows/ci.yml/badge.svg)](https://github.com/katanemo/plano/actions/workflows/ci.yml)
 [![Docker Image](https://github.com/katanemo/plano/actions/workflows/docker-push-main.yml/badge.svg)](https://github.com/katanemo/plano/actions/workflows/docker-push-main.yml)
