@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/source/_static/img/PlanoTagline.svg" alt="Plano Logo" width="40%" height=auto>
+  <img src="docs/source/_static/img/PlanoTagline.svg" alt="Plano Logo" width="35%" height=auto>
 
 <h3 style="margin: 10px 0; border: none;">The AI-native proxy server and data plane for agentic apps</h3>
 
